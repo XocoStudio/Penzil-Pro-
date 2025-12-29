@@ -1,6 +1,4 @@
-# 🖌️ Penzil - Dibujo 3D sobre Superficies
-
-# Xocopenzil  - Dibujo 3D intuitiva
+# 🖌️ XocoPenzil - Dibujo 3D sobre Superficies
 
 ![Xocopenzil - Interfaz Principal](Xocopenzil.jpg)
 

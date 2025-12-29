@@ -2,7 +2,7 @@
 
 # Xocopenzil  - Dibujo 3D intuitiva
 
-![Xocopenzil - Interfaz Principal](Xocopenzil.JPG)
+![Xocopenzil - Interfaz Principal](Xocopenzil.jpg)
 
 [Xocopenzil aplicación ](https://xocostudio.github.io/Penzil-Pro-/)   
 
